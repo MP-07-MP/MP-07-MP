@@ -1,16 +1,27 @@
-## Hi there 👋
+## About Me
 
-<!--
-**MP-07-MP/MP-07-MP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 2nd-year Computer Science student at the University of Greenwich, currently searching for a 2027–2028 industrial placement in software engineering.
 
-Here are some ideas to get you started:
+Right now, I'm focusing on core CS fundamentals including advanced data structures, algorithmic efficiency, foundational AI search/learning methods, and information security principles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **University:** University of Greenwich (BSc (Hons) Computer Science)
+- 📍 **Location:** London, UK
+- 🎯 **Target:** Software Engineering Placement Year (2027–2028)
+
+---
+
+## Technical Skills & Focus
+
+- **Core Programming Language:** Python
+- **CS Foundations:** Advanced Data Structures & Algorithms, Computational Mathematics, Artificial Intelligence Principles
+- **Developer Tools:** Git, GitHub, Linux/Bash, VS Code
+
+---
+
+## Projects & Coursework
+
+(Updating Soon!)
+
+---
+
+📫 *Feel free to check out my repositories or reach out via the LinkedIn link in my profile bio!*
